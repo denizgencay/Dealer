@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dealer</string>
+    <string name="sum_of_nodes">Sum Of Nodes</string>
+    <string name="delete_all_nodes">Delete All Nodes</string>
+</resources>
